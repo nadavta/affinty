@@ -6,11 +6,11 @@
   },
   "on_sale": {
     "onSale": 32,
-    "fullPrice": 16,
+    "fullPrice": 16
   },
   "categories": {
     "woman": 60,
     "shoes": 15,
-    "Home":35,
+    "Home":35
   }
 }
